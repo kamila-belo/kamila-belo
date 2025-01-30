@@ -1,4 +1,11 @@
-## Hi there 👋
+## Olá, me chamo Kamila 👋
+
+### Contato
+<div>
+<a href = "mailto:kamilabelo25@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kamilabelo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5519988288945"><img loading="lazy" src="https://img.shields.io/badge/whatsApp?style=for-the-badge&logo=whatsapp&logoColor=green" target="_blank"></a>
+<div>
 
 <!--
 **kamila-belo/kamila-belo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
