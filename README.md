@@ -8,7 +8,7 @@
 ## Experiências
 
 * Trabalhei como enfermeira na área de saúde mental, larga experiência em tratamento de transtornos graves e uso abusivo e substâncias (2012-2020).
-* Apoio técnico em pesquisas na área de saúde mental e saúde pública, experiente em  pesquisa qualitativa de 4ª geração, para avaliação de programas e serviços de saúde mental na Unicamp (2009-2018). 
+* Apoio técnico em pesquisas na área de saúde mental e saúde pública, experiente em pesquisa qualitativa de 4ª geração para avaliação de programas e serviços de saúde mental.
 * Em 2020 iniciei trabalho no Departamento de Vigilância em Saúde de Campinas-SP.
 * Sou gestora de informação buscando integrar e padronizar as áreas de saúde do trabalhador, ambiental, vigilância epidemiológica e sanitária.
 * Realizo análises de dados epidemiológicos e implemento soluções para monitorar indicadores de saúde de forma ágil.
@@ -16,7 +16,7 @@
 * Desenvolvo dashboards e implemento projetos de automação de processos e tarefas.
 * Gerencio projetos de TI e saúde digital para melhoria da vigilância em saúde.
 * Apoio pesquisas nas área de saúde pública.
-* Coordeno grupo de estudos de Gestão da Informação e Saúde Digital no IPADS - Instituto de Pesquisa e Apoio ao Desenvolvimento Social.
+* Coordeno grupo de estudos de Gestão da Informação e Saúde Digital no IPADS ([Instituto de Pesquisa e Apoio ao Desenvolvimento Social](https://ipads.org.br/)).
 
 ## Projetos públicos
 
