@@ -30,7 +30,7 @@
 * Curso de [Construção de paineis (dashboards) para monitoramento de indicadores de saúde](https://sites.google.com/view/cursos-de-vigilancia/relat%C3%B3rios)
 * Curso de [Linkage de bases de dados de saúde](https://sites.google.com/view/cursos-de-vigilancia/linkage)
 * Curso de [Construção de diagramas de controle na vigilância em saúde](https://sites.google.com/view/cursos-de-vigilancia/diagramas)
-* [Dissertação de Mestrado](https://repositorio.unicamp.br/Acervo/Detalhe/1061277)
+* Dissertação de Mestrado [Percurso em saúde mental:avaliação do acesso ao tratamento nos CAPS III, no município de Campinas/SP](https://repositorio.unicamp.br/Acervo/Detalhe/1061277)
    
 ### Ferramentas
 
