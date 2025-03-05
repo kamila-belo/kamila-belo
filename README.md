@@ -1,8 +1,9 @@
 ### Olá, me chamo Kamila 👋
 
-* Enfermeira - Unicamp (2012). 
-* Especialista em Data Science e Informática na área da Saúde - Albert Einstein (2020)
-* Mestrado em Saúde Coletiva: Política e Gestão em Saúde - Unicamp (2018)
+* Enfermeira - Unicamp (2012)
+* Mestra em Saúde Coletiva: Política e Gestão em Saúde - Unicamp (2018)
+* Especialista em Data Science e Informática na área da Saúde - Faculdade Israelita Albert Einstein (2020)
+* Especialista em Ciência de Dados e Saúde Digital - Departamento de Engenharia Biomédica do Centro de Tecnologia e Geociências/UFPE (2024)
 
 
 ## Experiências
@@ -15,14 +16,15 @@
 * Atuo integrando e padronizando as áreas de saúde do trabalhador, ambiental, vigilância epidemiológica e sanitária.
 * Realizo análises de dados epidemiológicos e implemento soluções para monitorar indicadores de saúde de forma ágil.
 * Apoio investigação de doenças e surtos em todas as áreas de vigilâncias.
-* Desenvolvo dashboards e implemento projetos de automação de processos e tarefas (RPA).
+* Atuo como gestora na área de *business intelligence* e implemento projetos de automação de processos e tarefas (RPA).
 * Gerencio projetos de TI e saúde digital para melhoria da vigilância em saúde.
 * Apoio pesquisas nas área de saúde pública.
 * Coordeno grupo de estudos de Gestão da Informação e Saúde Digital no IPADS ([Instituto de Pesquisa e Apoio ao Desenvolvimento Social](https://ipads.org.br/)).
 
 ## Projetos públicos
 
-* Dashboards desenvolvidos [Painéis de indicadores interativos com dados epidemiológicos](https://campinas.sp.gov.br/secretaria/saude/pagina/paineis-interativos)
+* Dashboards - PowerBI [Painéis de indicadores interativos com dados epidemiológicos](https://campinas.sp.gov.br/secretaria/saude/pagina/paineis-interativos)
+* Dissertação de Mestrado [Percurso em saúde mental:avaliação do acesso ao tratamento nos CAPS III, no município de Campinas/SP](https://repositorio.unicamp.br/Acervo/Detalhe/1061277)
 * Curso de [Análise de dados para a vigilância em saúde – Curso Básico](https://sites.google.com/view/cursos-de-vigilancia/curso-inicial)
 * Curso de [Visualização de dados de interesse para a vigilância em saúde](https://sites.google.com/view/cursos-de-vigilancia/visualiza%C3%A7%C3%A3o)
 * Curso de [Produção automatizada de relatórios na vigilância em saúde](https://sites.google.com/view/cursos-de-vigilancia/relat%C3%B3rios)
@@ -30,7 +32,7 @@
 * Curso de [Construção de paineis (dashboards) para monitoramento de indicadores de saúde](https://sites.google.com/view/cursos-de-vigilancia/relat%C3%B3rios)
 * Curso de [Linkage de bases de dados de saúde](https://sites.google.com/view/cursos-de-vigilancia/linkage)
 * Curso de [Construção de diagramas de controle na vigilância em saúde](https://sites.google.com/view/cursos-de-vigilancia/diagramas)
-* Dissertação de Mestrado [Percurso em saúde mental:avaliação do acesso ao tratamento nos CAPS III, no município de Campinas/SP](https://repositorio.unicamp.br/Acervo/Detalhe/1061277)
+
    
 ### Ferramentas
 
