@@ -9,11 +9,13 @@
 
 * Trabalhei como enfermeira na área de saúde mental, larga experiência em tratamento de transtornos graves e uso abusivo e substâncias (2012-2020).
 * Apoio técnico em pesquisas na área de saúde mental e saúde pública, experiente em pesquisa qualitativa de 4ª geração para avaliação de programas e serviços de saúde mental.
-* Em 2020 iniciei trabalho no Departamento de Vigilância em Saúde de Campinas-SP.
-* Sou gestora de informação buscando integrar e padronizar as áreas de saúde do trabalhador, ambiental, vigilância epidemiológica e sanitária.
+* Em 2016 iniciei minha jornada em pesquisa quantitativa na saúde pública, apoiei a criação de indicadores para avaliação das programas de saude mental no Brasil.
+* Em 2020, durante a pandemia iniciei trabalho no Departamento de Vigilância em Saúde de Campinas-SP para apoiar frente a covid-19. Neste momento desenvolvia os boletins epidemiológicos, automatizei relatórios e apoaindo todas as frentes de atuação com análises e apresentações do cenário epidemiológico da cidade, diariamente.
+* Atualmente sou gestora de informação e monitoramento de indicadores de vigilância em saúde.
+* Atuo integrando e padronizando as áreas de saúde do trabalhador, ambiental, vigilância epidemiológica e sanitária.
 * Realizo análises de dados epidemiológicos e implemento soluções para monitorar indicadores de saúde de forma ágil.
 * Apoio investigação de doenças e surtos em todas as áreas de vigilâncias.
-* Desenvolvo dashboards e implemento projetos de automação de processos e tarefas.
+* Desenvolvo dashboards e implemento projetos de automação de processos e tarefas (RPA).
 * Gerencio projetos de TI e saúde digital para melhoria da vigilância em saúde.
 * Apoio pesquisas nas área de saúde pública.
 * Coordeno grupo de estudos de Gestão da Informação e Saúde Digital no IPADS ([Instituto de Pesquisa e Apoio ao Desenvolvimento Social](https://ipads.org.br/)).
