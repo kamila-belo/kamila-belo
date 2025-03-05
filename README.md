@@ -22,7 +22,7 @@
 
 ## Projetos públicos
 
-* [Painéis de indicadores interativos com dados epidemiológicos](https://campinas.sp.gov.br/secretaria/saude/pagina/paineis-interativos)
+* Dashboars desenvolvidos [Painéis de indicadores interativos com dados epidemiológicos](https://campinas.sp.gov.br/secretaria/saude/pagina/paineis-interativos)
 * Curso de [Análise de dados para a vigilância em saúde – Curso Básico](https://sites.google.com/view/cursos-de-vigilancia/curso-inicial)
 * Curso de [Visualização de dados de interesse para a vigilância em saúde](https://sites.google.com/view/cursos-de-vigilancia/visualiza%C3%A7%C3%A3o)
 * Curso de [Produção automatizada de relatórios na vigilância em saúde](https://sites.google.com/view/cursos-de-vigilancia/relat%C3%B3rios)
